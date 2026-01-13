@@ -6,5 +6,13 @@
     "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/404%20Page",
     "livedemo": "https://404-page-amjadimdad00.vercel.app",
     "youtube": "https://www.youtube.com/shorts/jog_X4PE-gU"
+  },
+  {
+    "title": "404 Page Not Found",
+    "description": "This modern 404 page is built using HTML and CSS, featuring smooth animations, hover effects, and a clean, professional design.\nPerfect UI inspiration for portfolios, websites, or creative web projects — keep users engaged even when they hit a broken link. 👨‍💻🎨",
+    "tech": ["html", "css"],
+    "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/404%20Page%20Not%20Found",
+    "livedemo": "404-page-notfound-amjadimdad00.vercel.app",
+    "youtube": "https://www.youtube.com/shorts/o1jYQDbcHM0"
   }
 ]

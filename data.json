@@ -30,5 +30,13 @@
     "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Add%20To%20Cart%20Animation",
     "livedemo": "add-to-cart-animation-amjadimdad00.vercel.app",
     "youtube": "https://www.youtube.com/shorts/_yhc4pvHwV4"
+  },
+  {
+    "title": "Animated Download Button",
+    "description": "This animated download button is built using pure HTML and CSS, showing how small hover animations can make call-to-action buttons feel modern and interactive.\nNo JavaScript, just clean CSS transitions and smart design. 👨‍💻✨",
+    "tech": ["html", "css"],
+    "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Animated%20Download%20Button",
+    "livedemo": "animated-download-button-amjadimdad00.vercel.app",
+    "youtube": "https://www.youtube.com/shorts/2ewFi2UePCQ"
   }
 ]

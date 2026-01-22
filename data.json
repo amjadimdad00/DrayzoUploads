@@ -38,5 +38,13 @@
     "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Animated%20Download%20Button",
     "livedemo": "animated-download-button-amjadimdad00.vercel.app",
     "youtube": "https://www.youtube.com/shorts/2ewFi2UePCQ"
+  },
+  {
+    "title": "Animated Login Form",
+    "description": "This animated login form is built using pure HTML and CSS, focusing on clean layout, smooth animations, and a modern UI feel.\nPerfect inspiration for login pages, admin panels, and frontend projects. 👨‍💻🎨",
+    "tech": ["html", "css"],
+    "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Animated%20Login%20Button",
+    "livedemo": "animated-login-button-amjadimdad00.vercel.app",
+    "youtube": "https://www.youtube.com/shorts/lGQQYQl7HRE"
   }
 ]

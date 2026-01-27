@@ -54,5 +54,13 @@
     "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Butterfly%20Hexagon%20Social%20Icons",
     "livedemo": "https://butterfly-hexagon-social-icons-amjadimdad00.vercel.app",
     "youtube": "https://www.youtube.com/shorts/fSbOdrYNbfc"
+  },
+  {
+    "title": "Download Button",
+    "description": "This creative download button is built using pure HTML and CSS, focusing on smooth hover effects and a modern, clickable design.\nSimple animation, clean layout, and zero JavaScript — perfect UI inspiration for frontend projects. 👨‍💻🎨",
+    "tech": ["html", "css"],
+    "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Download%20Button",
+    "livedemo": "https://download-button-amjadimdad00.vercel.app",
+    "youtube": "https://www.youtube.com/shorts/ibcktQtMVEQ"
   }
 ]

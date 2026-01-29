@@ -62,5 +62,13 @@
     "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Download%20Button",
     "livedemo": "https://download-button-amjadimdad00.vercel.app",
     "youtube": "https://www.youtube.com/shorts/ibcktQtMVEQ"
+  },
+  {
+    "title": "Modern Animated Button",
+    "description": "This modern button hover animation is built using pure HTML and CSS, showing how small design details can level up your frontend projects.\nSmooth hover effects, modern feel, and fully responsive — perfect for landing pages and UI components. 👨‍💻",
+    "tech": ["html", "css"],
+    "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Modern%20Animated%20Button",
+    "livedemo": "https://modern-animated-button-amjadimdad00.vercel.app",
+    "youtube": "https://www.youtube.com/shorts/6jefBq6XFUE"
   }
 ]

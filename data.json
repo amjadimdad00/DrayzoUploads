@@ -69,6 +69,14 @@
     "tech": ["html", "css"],
     "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Modern%20Animated%20Button",
     "livedemo": "https://modern-animated-button-amjadimdad00.vercel.app",
-    "youtube": "https://www.youtube.com/shorts/6jefBq6XFUE"
+    "youtube": "https://www.youtube.com/@drayzosensei"
+  },
+  {
+    "title": "RealTime Clock",
+    "description": "This real-time digital clock is built using HTML, CSS, and JavaScript, showing how simple logic and clean UI can create something useful.\nA perfect beginner project using pure JavaScript and live time updates. 👨‍💻✨",
+    "tech": ["html", "css", "javascript"],
+    "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/RealTime%20Clock",
+    "livedemo": "https://realtime-clock-amjadimdad00.vercel.app",
+    "youtube": "https://www.youtube.com/shorts/dfrMVvAtF7s"
   }
 ]

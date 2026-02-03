@@ -78,5 +78,13 @@
     "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/RealTime%20Clock",
     "livedemo": "https://realtime-clock-amjadimdad00.vercel.app",
     "youtube": "https://www.youtube.com/shorts/dfrMVvAtF7s"
+  },
+  {
+    "title": "Animated Border",
+    "description": "A stunning CSS border animation using pure HTML & CSS. Perfect for buttons, cards, images, or sections — gives your UI a modern, interactive feel.",
+    "tech": ["html", "css"],
+    "github": "https://github.com/amjadimdad00/DrayzoUploads/tree/main/projects/Animated%20Border",
+    "livedemo": "https://animated-border-amjadimdad00.vercel.app",
+    "youtube": "https://www.youtube.com/shorts/wBoX-u_tkq0"
   }
 ]
